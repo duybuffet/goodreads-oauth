@@ -1,0 +1,1 @@
+Simple PHP code to enable interaction with with goodreads API via OAuth
